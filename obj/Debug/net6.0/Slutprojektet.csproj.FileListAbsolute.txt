@@ -1,0 +1,30 @@
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\Slutprojektet.csproj.AssemblyReference.cache
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\Slutprojektet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\Slutprojektet.AssemblyInfoInputs.cache
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\Slutprojektet.AssemblyInfo.cs
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\Slutprojektet.csproj.CoreCompileInputs.cache
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\bin\Debug\net6.0\Slutprojektet.exe
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\bin\Debug\net6.0\Slutprojektet.deps.json
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\bin\Debug\net6.0\Slutprojektet.runtimeconfig.json
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\bin\Debug\net6.0\Slutprojektet.dll
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\bin\Debug\net6.0\Slutprojektet.pdb
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\Slutprojektet.dll
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\refint\Slutprojektet.dll
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\Slutprojektet.pdb
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\Slutprojektet.genruntimeconfig.cache
+C:\Users\etern\Desktop\Programerings inlämning\Slutprojektet\Slutprojektet\obj\Debug\net6.0\ref\Slutprojektet.dll
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\Slutprojektet.csproj.AssemblyReference.cache
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\Slutprojektet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\Slutprojektet.AssemblyInfoInputs.cache
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\Slutprojektet.AssemblyInfo.cs
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\Slutprojektet.csproj.CoreCompileInputs.cache
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\Slutprojektet.dll
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\refint\Slutprojektet.dll
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\Slutprojektet.pdb
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\bin\Debug\net6.0\Slutprojektet.exe
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\bin\Debug\net6.0\Slutprojektet.deps.json
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\bin\Debug\net6.0\Slutprojektet.runtimeconfig.json
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\bin\Debug\net6.0\Slutprojektet.dll
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\bin\Debug\net6.0\Slutprojektet.pdb
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\Slutprojektet.genruntimeconfig.cache
+C:\Users\sternlevi.daniel\Desktop\Slutprojektet\obj\Debug\net6.0\ref\Slutprojektet.dll
