@@ -7,7 +7,7 @@ public class john : characterinfo
         Console.WriteLine("You chose John");
         isstrong = true;
         health = 25;
-        int RandomDamage = SetRandomDamage();
+
     }
     public void johntakesd()
     {
@@ -20,12 +20,6 @@ public class john : characterinfo
             health = 0;
         }
 
-    }
-    public int SetRandomDamage()
-    {
-        Random random = new Random();
-        int damage = random.Next(1, 6);
-        return damage;
     }
 
 }
