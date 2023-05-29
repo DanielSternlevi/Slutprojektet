@@ -8,6 +8,7 @@ public class alltext
     public static void FirstRoom()
     {
         Console.WriteLine("Skriv någon siffra för att välja vad du ska göra");
+        Console.WriteLine("Du har 25 HP");
         Console.WriteLine("1. Go to the next room.");
         int option;
         if (hasSilverkey)
