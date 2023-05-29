@@ -1,7 +1,7 @@
 public class alltext
 {
-    List<string> nyckelnamn = new List<string>();
-    List<string> choices = new List<string>() { "Silver Key", "Green Key" };
+
+    john spelarenInfo = new john();
     public static int roomNumber = 1;
     public static bool hasSilverkey = false;
     public static bool hasGreenkey = false;
@@ -27,8 +27,11 @@ public class alltext
             Ending();
         }
     }
-    public static void SecoundRoom()
+    public static void SecoundRoom(john p)
     {
+        Console.WriteLine("Du trampade på en spik");
+        p.johntakesd();
+        Console.WriteLine("Du har " + (p.health) + " HP");
         Console.WriteLine("2.Skriv någon siffra för att välja vad du ska göra");
         Console.WriteLine("1. Go to the next room.");
         Console.WriteLine("2. Go back.");
